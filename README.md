@@ -22,6 +22,11 @@
 + mysql_fetch_array, fetch the data from SQL table and prints it on the webpage.
 
 **************
+## Database6
++ Login with username and password to the user table in the db.
++ Uses POST requests containing the required fields.
+
+**************
 
 ## Form.html
 + It is the HTML form in which data is entered that gets stored in SQL database table.
